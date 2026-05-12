@@ -5,10 +5,10 @@ int main() {
     int n, r;
 
     cout << "Enter number of processes: ";
-    cin >> n;
+    cin >> n; //column
 
     cout << "Enter number of resources: ";
-    cin >> r;
+    cin >> r; //row
 
     int alloc[n][r], maxm[n][r], need[n][r];
     int avail[r];
