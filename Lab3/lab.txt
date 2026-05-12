@@ -1,0 +1,15 @@
+lab report:
+Outlinee first come first serve
+
+Introduction:
+kivabe kaj kore
+
+example nibo
+
+khatai table, ready queue, grant chart
+
+pseudo code: haate likhbo
+
+print input output
+
+conclusion
