@@ -1,0 +1,4 @@
+1. Page Replacement (FIFO, LRU)
+2. Disk Scheduling: Scan, Look
+3. Memory Allocation: First Fit, Next Fit
+4. Deadlock: Banker's Algorithm
